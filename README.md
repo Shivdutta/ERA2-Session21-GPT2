@@ -21,3 +21,4 @@ As seen in below image, after runnning for 6000 step with and tokens 1024, we ar
 ## App
 
 Link to app - https://huggingface.co/spaces/Shivdutta/S21-GPT2
+![gpt2](gpt2.png)
