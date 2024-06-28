@@ -3,7 +3,7 @@
 ## Training GPT-2 from Scratch using Tiny Shakespeare dataset
 
 In this repo, Tiny Shakespeare dataset (input.txt) and 17 files each representing a step in training GPT-2 model from scratch. 
-In files train_get2-1 through train_get2-8 we setup our code for training. 
+In files/text train_get2-1 through train_get2-8 we setup our code for training. 
 From train_get2-9-speedup-1 thorugh speedup-9 we implement different techniques to speed up our training process.
 
 S21.ipynb is the consolidation of 17 files where training is performed.
